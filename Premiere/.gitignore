@@ -1,0 +1,25 @@
+# Adobe Temp Files
+/Adobe Premiere Pro Auto-Save
+/Adobe Adobe Media Encoder Audio Previews
+/Adobe Premiere Pro Audio Previews
+
+# Sony AVCHD Media Files
+*.bdm
+*.cpi
+*.mpl
+*.mts
+*.bnp
+*.ind
+*.inp
+*.int
+*.bin
+
+# Common (large) audio files
+*.wav
+*.aac
+
+# Other common video files
+*.avi
+*.mp4
+*.mov
+*.m4v
