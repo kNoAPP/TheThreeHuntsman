@@ -1,0 +1,34 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="Brother_Yong"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   ParameterStateId=1CA1BD2D4F69EED39F2E68A93FB44B7E
+   Parent=MaterialInstanceConstant'"/Game/SwordsmanCharacter/Materials/MI_Swordsman_Color2.MI_Swordsman_Color2"'
+   ScalarParameterValues(0)=(ParameterInfo=(Name="RefractionDepthBias"))
+   VectorParameterValues(0)=(ParameterInfo=(Name="Hair"),ParameterValue=(R=1.000000,G=0.099634,B=0.000000,A=1.000000),ExpressionGUID=13F3F77E451DCEA75FEDB7933479E155)
+   VectorParameterValues(1)=(ParameterInfo=(Name="Jacket"),ParameterValue=(R=1.000000,G=0.099899,B=0.000000,A=1.000000),ExpressionGUID=DC059C174AE0710AA9CB719B35CD9AF9)
+   VectorParameterValues(2)=(ParameterInfo=(Name="Pants"),ParameterValue=(R=1.000000,G=0.099899,B=0.000000,A=1.000000),ExpressionGUID=F0B206074C3F236BA044DDB4D70CE99B)
+   VectorParameterValues(3)=(ParameterInfo=(Name="Tshirt"),ParameterValue=(R=1.000000,G=0.099899,B=0.000000,A=1.000000),ExpressionGUID=CA63BCF54FA955596B4D2CB9DDEC1EEF)
+   BasePropertyOverrides=(TwoSided=True,OpacityMaskClipValue=0.333300)
+   ReferencedTextureGuids(0)=74C826E44503F6CED7D42F93ABF062A2
+   ReferencedTextureGuids(1)=35406C09430DE900CBD97885F3FE576C
+   ReferencedTextureGuids(2)=7E214F724BB42DF12B5698B9DE7B39CE
+   ReferencedTextureGuids(3)=A29B83CC4DFC636D2A0228B9952EFDC0
+   ReferencedTextureGuids(4)=B7BFCB354F4099D053BFBD8F79BAEB88
+   CachedReferencedTextures(0)=Texture2D'"/Game/SwordsmanCharacter/Textures/T_Swordsman_Color.T_Swordsman_Color"'
+   CachedReferencedTextures(1)=Texture2D'"/Game/SwordsmanCharacter/Textures/T_Swordsman_Normal.T_Swordsman_Normal"'
+   CachedReferencedTextures(2)=Texture2D'"/Game/SwordsmanCharacter/Textures/T_Swordsman_Roughness.T_Swordsman_Roughness"'
+   CachedReferencedTextures(3)=Texture2D'"/Game/SwordsmanCharacter/Textures/T_Swordsman_Metallic.T_Swordsman_Metallic"'
+   CachedReferencedTextures(4)=Texture2D'"/Game/SwordsmanCharacter/Textures/T_Swordsman_Mask.T_Swordsman_Mask"'
+   CachedReferencedTextures(5)=Texture2D'"/Engine/EngineMaterials/BlendFunc_DefBlend.BlendFunc_DefBlend"'
+   CachedReferencedTextures(6)=Texture2D'"/Engine/EngineMaterials/BlendFunc_DefBase.BlendFunc_DefBase"'
+   TextureStreamingDataVersion=1
+   TextureStreamingData(0)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="T_Swordsman_Color",TextureReference=/Game/SwordsmanCharacter/Textures/T_Swordsman_Color.T_Swordsman_Color)
+   TextureStreamingData(1)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="T_Swordsman_Mask",TextureReference=/Game/SwordsmanCharacter/Textures/T_Swordsman_Mask.T_Swordsman_Mask)
+   TextureStreamingData(2)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="T_Swordsman_Metallic",TextureReference=/Game/SwordsmanCharacter/Textures/T_Swordsman_Metallic.T_Swordsman_Metallic)
+   TextureStreamingData(3)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="T_Swordsman_Normal",TextureReference=/Game/SwordsmanCharacter/Textures/T_Swordsman_Normal.T_Swordsman_Normal)
+   TextureStreamingData(4)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="T_Swordsman_Roughness",TextureReference=/Game/SwordsmanCharacter/Textures/T_Swordsman_Roughness.T_Swordsman_Roughness)
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=AABEC5B4453B7EE78DE82CA63DC14F48
+End Object
